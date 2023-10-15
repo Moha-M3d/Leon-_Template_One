@@ -3,7 +3,7 @@
     --sectionPadding: 60px;
     --mainfc: hsl(0, 0%, 33%);
     --main-h-fc: hsl(0, 0%, 20%);
-    scrool-behavior: smooth;
+    scroll-behavior: smooth;
 }
 
 * {
